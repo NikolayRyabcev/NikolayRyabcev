@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Николай</h1>
+<h1 align="center">Hi 👋, I'm Nikolay</h1>
 <h3 align="center">Android developer</h3>
 
 - 🌱 I’m currently learning **Jetpack Compose**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NikolayRyabcev](https://github.com/NikolayRyabcev)
 
-- 📫 How to reach me **nikolas14@mail.ru**
+- 📫 How to reach me **nikolas14@mail.ru**   Telegram: @Nikolay176 
 
 - 📄 Know about my experiences [https://maikop.hh.ru/resume/550e1a51ff0cbf4c690039ed1f6d496d474e6a](https://maikop.hh.ru/resume/550e1a51ff0cbf4c690039ed1f6d496d474e6a)
 
