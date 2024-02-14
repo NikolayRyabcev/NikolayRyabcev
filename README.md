@@ -5,12 +5,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/NikolayRyabcev](https://github.com/NikolayRyabcev)
 
-- 📫 How to reach me **nikolas14@mail.ru**   Telegram: @Nikolay176 
+- 📫 How to reach me **nikolas14@mail.ru**   
 
 - 📄 Know about my experiences [https://maikop.hh.ru/resume/550e1a51ff0cbf4c690039ed1f6d496d474e6a](https://maikop.hh.ru/resume/550e1a51ff0cbf4c690039ed1f6d496d474e6a)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+Telegram: @Nikolay176 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
